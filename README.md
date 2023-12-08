@@ -9,4 +9,4 @@ https://medium.com/@nursenabaykir/nedir-bu-veri-bilimi-0227938be9c0
 - [2-numpy](2-numpy.ipynb)
 - [2-pandas-dataframes](2-pandas-dataframes.ipynb)
 - [2-pandas-series](2-pandas-series.ipynb)
-- [exercise-2](exercises/week_2_exercise-3.ipynb)
+- [2-exercise](exercises/week_2_exercise-3.ipynb)
