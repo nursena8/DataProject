@@ -11,9 +11,7 @@ https://medium.com/@nursenabaykir/nedir-bu-veri-bilimi-0227938be9c0
 - [2-pandas-series](2-pandas-series.ipynb)
 - [2-exercise](exercises/week_2_exercise-3.ipynb)
 
-
-
 ### WEEK 3
-- [3-data-viz](3-birds-data.ipynb)
+- [3-data-viz](week 3/3-birds-data.ipynb)
 - [3-iris](3-iris.ipynb)
 - [3-birds-data](3-birds-data.ipynb)
