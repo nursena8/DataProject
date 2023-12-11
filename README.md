@@ -14,6 +14,6 @@ https://medium.com/@nursenabaykir/nedir-bu-veri-bilimi-0227938be9c0
 
 
 ### WEEK 3
-- [3-data-viz](3_data_viz.ipynb)
+- [3-data-viz](3-birds-data.ipynb)
 - [3-iris](3-iris.ipynb)
 - [3-birds-data](3-birds-data.ipynb)
