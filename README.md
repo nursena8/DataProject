@@ -15,4 +15,4 @@ https://medium.com/@nursenabaykir/nedir-bu-veri-bilimi-0227938be9c0
 - [3-data-viz](https://github.com/nursena8/DataProject/blob/main/week%20%203/3-birds-data.ipynb)
 - [3-iris](https://github.com/nursena8/DataProject/blob/main/week%20%203/3_iris.ipynb)
 - [3-birds-data](https://github.com/nursena8/DataProject/blob/main/week%20%203/3-birds-data.ipynb)
-- [3_exercise_fraudf_](fraudf_week_3.ipynb)
+- [3_exercise_fraudf_](https://github.com/nursena8/DataProject/blob/main/exercises/fraudf_week_3.ipynb)
