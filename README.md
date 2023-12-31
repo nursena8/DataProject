@@ -26,3 +26,9 @@ https://medium.com/@nursenabaykir/nedir-bu-veri-bilimi-0227938be9c0
 - [analysis](https://github.com/nursena8/DataProject/blob/main/week%205/analysis.ipynb)
 - [api_method](https://github.com/nursena8/DataProject/blob/main/week%205/api_method.py)
 
+### WEEK 6
+- [sqlite](https://github.com/nursena8/DataProject/blob/main/week%206/6_sqlite.ipynb)
+- [machine-learning-example](https://github.com/nursena8/DataProject/blob/main/week%206/updated.ipynb)
+- [machine-learning-info](https://github.com/nursena8/DataProject/blob/main/week%206/machine-learning.ipynb)
+- 
+
