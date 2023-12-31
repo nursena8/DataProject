@@ -17,7 +17,7 @@ my_list = [
     (random_int(), "watermelon", "green")
 ]
 
-# create connection
+# create conection
 connection = sqlite3.connect("fruits.db")
 
 # create cursor object
