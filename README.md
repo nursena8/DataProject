@@ -30,5 +30,10 @@ https://medium.com/@nursenabaykir/nedir-bu-veri-bilimi-0227938be9c0
 - [sqlite](https://github.com/nursena8/DataProject/blob/main/week%206/6_sqlite.ipynb)
 - [machine-learning-example](https://github.com/nursena8/DataProject/blob/main/week%206/updated.ipynb)
 - [machine-learning-info](https://github.com/nursena8/DataProject/blob/main/week%206/machine-learning.ipynb)
-- 
+- [machine-leraning-exercise](https://github.com/nursena8/DataProject/blob/lesson-7/exercises/machine_learning.ipynb)
+### WEEK 7
+- [model-evaluation-info](https://github.com/nursena8/DataProject/blob/lesson-7/week%207/model_evaluation-2.ipynb)
+- [non-linear-exercise](https://github.com/nursena8/DataProject/blob/lesson-7/week%207/exapmle.ipynb)
+- [model-evaluation-exercise](https://github.com/nursena8/DataProject/blob/lesson-7/week%207/Untitled14-2.ipynb)
+
 
