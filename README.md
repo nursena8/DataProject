@@ -35,5 +35,7 @@ https://medium.com/@nursenabaykir/nedir-bu-veri-bilimi-0227938be9c0
 - [model-evaluation-info](https://github.com/nursena8/DataProject/blob/lesson-7/week%207/model_evaluation-2.ipynb)
 - [non-linear-exercise](https://github.com/nursena8/DataProject/blob/lesson-7/week%207/exapmle.ipynb)
 - [model-evaluation-exercise](https://github.com/nursena8/DataProject/blob/lesson-7/week%207/Untitled14-2.ipynb)
-
+### week 8
+- [logistic-regression](https://github.com/nursena8/DataProject/blob/main/week%208%20/8-logistic-regression.ipynb)
+- [svm](https://github.com/nursena8/DataProject/blob/main/week%208%20/8-support-vector-machines.ipynb)
 
